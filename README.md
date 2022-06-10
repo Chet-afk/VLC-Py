@@ -1,1 +1,1 @@
-# VLC-Rich-Presence
+# VLC-Py
